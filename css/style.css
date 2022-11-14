@@ -9,7 +9,7 @@ body {
 .callout-container {
     height: 100vh;
 
-    background: url('../images/whiskey-background.jpg') no-repeat bottom right fixed;
+    background: url('../images/whiskey-background.jpeg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -25,3 +25,11 @@ body {
 .quotes-container {}
 
 .features-container {}
+
+/*Jumbotron*/
+
+.jumbotron-header {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
