@@ -195,3 +195,7 @@ body {
 .page-header h2 {
     margin-top: 0;
 }
+
+.quotes .page-header {
+    margin-bottom: 25px;
+}
